@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29833e4a71ec00a478df7e07019dfc98, type: 3}
+  m_Name: Teste
+  m_EditorClassIdentifier: 
+  dialogos:
+  - "POR QUE DIABOS VOC\xCAS FIZERAM ISSO?????????  "
+  - "Senhorita Stella n\xF3s estamos apenas seguindo o procedimento padr\xE3o. "
+  - "O \u201CPROCEDIMENTO\u201D N\xC3O \xC9 ESSE, A GENTE DEVERIA AJUDAR, NAO EXPLODIR
+    O PLANETA."
+  quemFala:
+  - Stella
+  - Oficial
+  - Stella
+  qualExpressao: 010000000000000002000000
